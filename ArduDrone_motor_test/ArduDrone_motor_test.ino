@@ -3,7 +3,7 @@
 // Mr.Cho 06-01-20 AuduDrone Motor Test
 //---------------------------------------------------------------------
 // servo position 0 to 180 Degree
-// RC position 1000 to 2000 writeMicroseconds
+// RC position 1000 to 2000 writeMicroseconds 
 //---------------------------------------------------------------------
 
 String readString;   //문자열을 입력 받고, 객체 생성을 위한.
