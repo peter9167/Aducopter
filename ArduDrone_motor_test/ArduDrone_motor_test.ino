@@ -1,6 +1,5 @@
 //---------------------------------------------------------------------
-// 이 프로그램은 에어온에서 만들어진 것입니다.
-// Mr.Cho 06-01-20 AuduDrone Motor Test
+// Mr.LEE 06-01-20 AuduDrone Motor Test
 //---------------------------------------------------------------------
 // servo position 0 to 180 Degree
 // RC position 1000 to 2000 writeMicroseconds 
