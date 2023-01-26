@@ -7,7 +7,7 @@ String readString;
 Servo mymotor;
 
 //----------------------------------
-// 조종기의 채널 -> 4개사용
+// 조종기의 채널 -> 4개사용 
 #define Pitch       5
 #define Roll        4
 #define Throttle    2
