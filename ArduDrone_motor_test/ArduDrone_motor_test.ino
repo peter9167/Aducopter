@@ -4,7 +4,7 @@
 // servo position 0 to 180 Degree
 // RC position 1000 to 2000 writeMicroseconds 
 //---------------------------------------------------------------------
-  
+
 String readString;   //문자열을 입력 받고, 객체 생성을 위한.
 #include <Servo.h>  //Servo 해더파일 호출
 
