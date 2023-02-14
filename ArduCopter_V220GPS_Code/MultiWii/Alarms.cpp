@@ -6,7 +6,7 @@
 #include "LCD.h"
 #include "Sensors.h"
 #include "Alarms.h"
-
+ 
 void alarmPatternComposer();
 void patternDecode(uint8_t resource,uint16_t first,uint16_t second,uint16_t third,uint16_t cyclepause, uint16_t endpause);
 void setTiming(uint8_t resource, uint16_t pulse, uint16_t pause);
@@ -702,4 +702,3 @@ void vario_output(uint16_t d, uint8_t up) {
 }
 
 #endif
-
