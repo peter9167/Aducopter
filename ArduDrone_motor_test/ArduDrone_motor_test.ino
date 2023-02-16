@@ -7,7 +7,7 @@
 
 String readString;   //문자열을 입력 받고, 객체 생성을 위한.
 #include <Servo.h>  //Servo 해더파일 호출
-
+ 
 Servo mymotor;      //서보를 제어하기 위해 서보 객체를 생성
 
 // Arduino nano to Motor pin map
