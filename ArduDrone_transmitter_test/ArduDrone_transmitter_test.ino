@@ -4,7 +4,7 @@
 
 String readString;
 #include <Servo.h> 
-Servo mymotor;
+Servo mymotor; 
 
 //----------------------------------
 // 조종기의 채널 -> 4개사용 
