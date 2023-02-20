@@ -24,7 +24,7 @@ int Motor4 = 11; //M4모터 11핀으로 설정
 
 
 int LED = 13; //LED 13번 핀으로 설정
- 
+  
 void setup() 
 {
   pinMode(Motor1  ,OUTPUT); //Motor1번을 출력 초기화 작업
