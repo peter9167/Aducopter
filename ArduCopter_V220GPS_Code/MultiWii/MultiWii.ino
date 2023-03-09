@@ -1,6 +1,6 @@
 /*   
  * Welcome to MultiWii.
- *
+ * 
  * If you see this message, chances are you are using the Arduino IDE. That is ok.
  * To get the MultiWii program configured for your copter, you must switch to the tab named 'config.h'.
  * Maybe that tab is not visible in the list at the top, then you must use the drop down list at the right
